@@ -1,4 +1,4 @@
-package exercico17
+package exercicio17
 
 fun main() {
     print("Digite uma palavra, frase ou número: ")
